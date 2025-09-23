@@ -1,5 +1,8 @@
 fun main()
 {
-  val names = listof("ravi", "madh", "rahul")
+  val names = listOf("ravi", "madh", "rahul")
   println(names[2])
 }
+
+//output
+rahul
