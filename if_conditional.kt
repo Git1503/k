@@ -1,3 +1,16 @@
+fun main() 
+{
+ val examscore = 10
+    
+ if (examscore < 70)
+ {
+     println("you failed")
+ }
+}
+
+//output 
+you failed
+
 
 fun main()
 {
