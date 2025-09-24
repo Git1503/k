@@ -22,3 +22,5 @@ fun main()
  
 output:
 Enter a character: 
+g
+g is consonant 
