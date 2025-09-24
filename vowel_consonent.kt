@@ -20,3 +20,5 @@ fun main()
     }
 }
  
+output:
+Enter a character: 
